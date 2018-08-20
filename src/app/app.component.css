@@ -1,0 +1,8 @@
+#dde{
+    position: absolute;	
+}
+#scene{
+        background: #fff url("/src/assets/images/bg.png") no-repeat fixed; 
+        overflow: hidden;
+        z-index: -100;
+}
